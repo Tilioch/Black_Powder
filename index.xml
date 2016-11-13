@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="1.15" name="Warhaller Historical&apos;s Waterloo" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Austrian_1809.catz" dataType="catalogue" dataId="5d65-3bf5-4f42-b982" dataName="Austrian 1809" dataBattleScribeVersion="1.15" dataRevision="2"/>
+    <dataIndexEntry filePath="Black_Powder.gstz" dataType="gamesystem" dataId="519b-67f4-b0a0-ac71" dataName="Black Powder" dataBattleScribeVersion="1.15" dataRevision="4"/>
+    <dataIndexEntry filePath="Peninsular_British.catz" dataType="catalogue" dataId="a68c-6ef4-0ef8-68e9" dataName="Peninsular British" dataBattleScribeVersion="1.15" dataRevision="2"/>
+    <dataIndexEntry filePath="Peninsular_French.catz" dataType="catalogue" dataId="08e1-14ce-33a5-2b7c" dataName="Peninsular French" dataBattleScribeVersion="1.15" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
